@@ -1,5 +1,8 @@
 {
   "version": "1.0",
+  "homepage": "https://github.com/TagStudioDev/TagStudio",
+  "license": "Freeware",
+  "description": "File and media tagging software",
   "url": "https://github.com/TagStudioDev/TagStudio/releases/download/v9.4.1/tagstudio_windows_x86_64_portable.zip",
   "extract_dir": "TagStudio",
   "bin": "TagStudio.exe"

@@ -6,6 +6,6 @@
   "url": "https://github.com/TagStudioDev/TagStudio/releases/download/v9.4.1/tagstudio_windows_x86_64_portable.zip",
   "extract_dir": "TagStudio", 
   "bin": [
-    "TagStudio/tagstudio.exe"  // Убедитесь, что путь к бинарнику указан правильно
+    "TagStudio/tagstudio.exe"
   ]
 }

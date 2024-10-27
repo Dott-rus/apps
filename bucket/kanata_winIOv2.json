@@ -1,0 +1,22 @@
+{
+    "version": "1.7.0",
+    "description": "A software keyboard remapper. (kanata_winIOv2)",
+    "homepage": "https://github.com/jtroo/kanata",
+    "license": "LGPL-3.0-only",
+    "notes": "Configuration Guide: https://github.com/jtroo/kanata/blob/main/docs/config.adoc",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jtroo/kanata/releases/download/v1.6.1/kanata_winIOv2.exe",
+            "hash": "6F674287269F6EF1961E18F574E5D1ACA59E8D5768F4E3C988E315197ED755A6"
+        }
+    },
+    "bin": "kanata_winIOv2.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/jtroo/kanata/releases/download/v1.6.1/kanata_winIOv2.exe"
+            }
+        }
+    }
+}

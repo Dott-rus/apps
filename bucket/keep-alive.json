@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/stigoleg/keep-alive/releases/download/v1.2.0/keep-alive_Windows_x86_64.zip",
-            "hash": "$.autoupdate.hash"
+            "hash": "1356939da8d4b3140695da96634f355f64daec605d4a195f722341f060475249"
         }
     },
     "shortcuts": [

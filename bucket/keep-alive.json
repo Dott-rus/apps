@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/stigoleg/keep-alive/releases/download/v$version/keep-alive_Windows_x86_64.zip"
+                "url": "https://github.com/stigoleg/keep-alive/releases/download/$version/keep-alive_Windows_x86_64.zip"
             }
         }
     }
